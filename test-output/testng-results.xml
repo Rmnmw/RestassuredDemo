@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-30T03:12:53 IST" name="Default suite" finished-at="2020-10-30T03:12:55 IST" duration-ms="2298">
+    <groups>
+    </groups>
+    <test started-at="2020-10-30T03:12:53 IST" name="Default test" finished-at="2020-10-30T03:12:55 IST" duration-ms="2298">
+      <class name="testRequests.TestGet">
+        <test-method signature="getAllEmployees()[pri:0, instance:testRequests.TestGet@6ce139a4]" started-at="2020-10-30T03:12:53 IST" name="getAllEmployees" finished-at="2020-10-30T03:12:55 IST" duration-ms="2222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployees -->
+      </class> <!-- testRequests.TestGet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

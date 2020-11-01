@@ -1,0 +1,9 @@
+{
+  "Base_Url":"http://localhost:3000/employees/",
+  "Put_request":"http://localhost:3000/employees/10",
+  "Delete_request":"http://localhost:3000/employees/11",
+  "first_name":"madu",
+  "last_name":"weere",
+  "email":"ado@gmail.com"
+  
+  }
